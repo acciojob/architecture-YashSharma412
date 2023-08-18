@@ -1,1 +1,45 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#cbd6cb
+}
+
+body{
+	width: 1100px;
+}
+
+table{
+	border: 2px solid black;
+}
+
+td{
+	box-sizing: border-box;
+	border: 2px solid black;
+	padding: 3px;
+}
+
+img{
+	width: 200px;
+}
+
+#main_img{
+	width: 60%;
+	margin-bottom: 20px;
+}
+
+.column-1{
+	width: 200px;
+}
+
+.column-2{
+	width: 600px;
+	text-align: center;
+}
+
+.column-3{
+	width: 200px;
+}
+
+ol.myol {
+  display: inline-block;
+  text-align: left;
+}
